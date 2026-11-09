@@ -45,7 +45,7 @@
   - "security_custom"
   "display_name": "Security"
   "exists": false
-  "id": "security"
+  "id": "security1"
   "parent_id": "platform"
 - "archetypes":
   - "management_custom"
