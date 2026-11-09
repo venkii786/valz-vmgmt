@@ -205,7 +205,7 @@ management_group_settings = {
     }
     security = {
       subscription_id       = "$${subscription_id_security}"
-      management_group_name = "security"
+      management_group_name = "security1"
     }
   }
   policy_assignments_to_modify = {
